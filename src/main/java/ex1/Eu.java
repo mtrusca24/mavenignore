@@ -4,6 +4,12 @@ public class Eu {
 
 	public static void main(String[] args) {
 		System.out.println("eu merg la mare");
+		
+		// daca nu vrei sa impingi tot pe github 
+		// le pui in gitignore pe care il creezi tu
+		// fisierul asta nu se vede aici
+		// pe github este maven ignore
+		// cauta-l in fisiere pe .gitignore
 		/*
 		 * git init
 		 * 
@@ -18,7 +24,22 @@ git remote -v
 
 git push origin master
 		 * 
-		 * 
+		 * # Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target
 		 */
 
 	}
