@@ -5,6 +5,9 @@ public class Eu {
 	public static void main(String[] args) {
 		System.out.println("eu merg la mare");
 		
+		// vezi ca aici este workspace C:\Program Files (x86)\Jenkins\workspace\mavenIgnore
+		// goal test
+		
 		// daca nu vrei sa impingi tot pe github 
 		// le pui in gitignore pe care il creezi tu
 		// fisierul asta nu se vede aici
