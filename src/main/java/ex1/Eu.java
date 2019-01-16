@@ -4,7 +4,7 @@ public class Eu {
 
 	public static void main(String[] args) {
 		System.out.println("eu merg la mare");
-		
+		// daca fac aici o modificare, prin bifarea Smc poll se va trigeeruir singur jenkins si va face test goal
 		// daca nu vrei sa impingi tot pe github 
 		// le pui in gitignore pe care il creezi tu
 		// fisierul asta nu se vede aici
