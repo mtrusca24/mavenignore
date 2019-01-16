@@ -4,7 +4,7 @@ public class Eu {
 
 	public static void main(String[] args) {
 		System.out.println("eu merg la mare");
-		
+		// daca fac aici o modificare, prin bifarea Smc poll se va trigeeruir singur jenkins si va face test goal
 		// vezi ca aici este workspace C:\Program Files (x86)\Jenkins\workspace\mavenIgnore
 		// goal test
 		
